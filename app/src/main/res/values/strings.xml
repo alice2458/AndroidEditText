@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="user">用户名：</string>
+    <string name="account">请填写登录账号</string>
+    <string name="pwd">密码：</string>
+    <string name="age">年龄：</string>
+    <string name="birth">生日：</string>
+    <string name="telNum">请填写电话号码</string>
+    <string name="tel">电话号码</string>
+    <string name="click">注册</string>
+</resources>
