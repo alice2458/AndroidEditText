@@ -1,2 +1,2 @@
 # AndroidEditText
-输入框
+用户友好的输入界面
